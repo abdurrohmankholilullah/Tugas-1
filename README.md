@@ -1,2 +1,2 @@
-# Tugas-1
+# Membuat datasheet pelanggan sintetis
 README
